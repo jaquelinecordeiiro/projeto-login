@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/*
+    Peleta de cores:
+    Verde: #49a09d
+    Lilás: #5f2c82
+*/
+
+*{
+    margin: 0px;
+    top: 0px;
+}
+
+body,html {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: whitesmoke;
+}
+
+body{
+    background: url(/Imagens/pexels-sean-whang-804269.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
