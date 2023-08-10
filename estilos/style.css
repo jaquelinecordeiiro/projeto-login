@@ -22,3 +22,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+main > section{
+    background-color: var(#5f2c82);
+    box-shadow: #5f2c82;
+}
