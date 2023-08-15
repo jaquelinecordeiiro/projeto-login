@@ -1,0 +1,22 @@
+@media print{
+
+}
+@media screen and (min-width:1284px) and (max-width: 1600px){
+    body{
+        
+    }
+
+}
+@media screen and (min-width:1600) and (max-width:1900px){
+    body{
+        
+    }
+
+}
+
+@media screen and (min-width:1901) {
+    body{
+        
+    }
+
+}
